@@ -1,1 +1,3 @@
 # SoftServeCourse
+
+Training GitHub
